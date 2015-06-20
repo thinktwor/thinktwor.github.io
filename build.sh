@@ -9,4 +9,4 @@ git remote add origin https://github.com/thinktwor/thinktwor.github.io.git
 git push -u origin master 
 cd ..
 git add .
-git push -u origin source
+git push origin source
