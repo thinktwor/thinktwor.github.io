@@ -1,0 +1,26 @@
+title: ThinkTwor
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://thinktwor.github.io/
+baseurl: ""
+paginate_path: "/page:num/"
+permalink: /:title/
+
+markdown: kramdown
+highlighter: pygments
+paginate: 4
+
+navigation:
+ - title: Home
+   url: /
+ - title: About
+   url: /about
+ 
+
+social:
+   github: tworitdash
+   twitter: tworitdash
+   facebook: tworit.dash
+   email: tworitdash@gmail.com
+
+google_analytics: "UA-58263416-1"
