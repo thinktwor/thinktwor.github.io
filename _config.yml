@@ -3,6 +3,7 @@ description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://thinktwor.github.io/
 baseurl: ""
+gems: [jekyll-paginate]
 paginate_path: "/page:num/"
 permalink: /:title/
 
