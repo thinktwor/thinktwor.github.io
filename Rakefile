@@ -10,7 +10,7 @@ task :new_post, :title do |t, args|
   else
     title = get_stdin("Enter a title for your post: ")
   end
-i  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(server_dir)
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(server_dir)
   mkdir_p "#{server_dir}/#{posts}"
   filename = "#{server_dir}/#{posts}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
