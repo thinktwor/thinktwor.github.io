@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eyes In the Ocean"
+title: "Eyes In The Ocean"
 ---
 “I had no courage to ask her. I don't know whether I was afraid or too shy.”, wrote Teasa just after waking up the next day. It was again her dream that was bugging her all over. She wrote the dream just after walking up. In the dream, she was in a classroom with a bunch of friends and it was a history class. The teacher was talking about the Second World War and The Swastik flag. On her way back from school, a friend of her asked her to come over her place for dinner. At home, her mother was also getting ready for a dinner party of a marriage. Coincidentally, they figured out that they both were going the same place for dinner. 
 
