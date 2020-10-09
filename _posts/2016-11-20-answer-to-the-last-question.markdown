@@ -2,6 +2,8 @@
 layout: post
 title: "Answer to The Last Question"
 ---
+Dedicated to: Isaac Asimov
+
 
 This blog-post is about "The Last Question" from Isaac Asimov. The story revolves around a question, the question which asks for the existence of everything around us. One should read the story before reading this blog-post. The questions that I will focus on are below,
 
