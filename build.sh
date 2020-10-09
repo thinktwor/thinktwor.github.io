@@ -1,4 +1,4 @@
-jekyll build --source . --destination _deploy
+bundle exec jekyll build --source . --destination _deploy
 touch _deploy/CNAME
 echo 'blog.tworitdash.in' > _deploy/CNAME
 cd _deploy
